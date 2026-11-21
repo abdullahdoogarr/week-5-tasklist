@@ -1,4 +1,4 @@
-# Python List Tasks
+# Week 5: Task List
 
 Eight small exercises on slicing, slice assignment, and list comprehensions.
 
